@@ -1,0 +1,15 @@
+{
+  "name": "metro-css-transformer",
+  "description": "Experimental CSS transformer for metro",
+  "version": "0.0.0",
+  "author": {
+    "name": "Tobias Timm",
+    "email": "tbs.timm@gmail.com",
+    "url": "https://tobiastimm.dev"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "metro-babel-transformer": "^0.53.1"
+  }
+}
