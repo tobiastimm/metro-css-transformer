@@ -11,5 +11,8 @@
   "license": "MIT",
   "dependencies": {
     "metro-babel-transformer": "^0.53.1"
+  },
+  "peerDependencies": {
+    "metro": "^0.53.1"
   }
 }
